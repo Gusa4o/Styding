@@ -1,2 +1,2 @@
-# Studing
+# Styding
 learning html
